@@ -10,32 +10,32 @@ O currículo da Trybe conta com mais de 1.500 horas de aulas presenciais e onlin
 
 ##### Introdução à HTML & CSS
 
-- [x] _[Projeto - Lessons Learned]()_
+- [x] _[Projeto - Lessons Learned](https://github.com/Kai0so/trybe-projects/tree/master/fundamentos/project-lessons-learned)_
 
 ##### Introdução à JavaScript
 
-- [x] _[Projeto - Playground Functions]()_
+- [x] _[Projeto - Playground Functions](https://github.com/Kai0so/trybe-projects/tree/master/fundamentos/project-playground-functions)_
 
 ##### JavaScript: DOM, Eventos e Web Storage
 
-- [x] _[Projeto - Arte com Pixels]()_
-- [x] _[Projeto - Lista de Tarefas]()_
+- [x] _[Projeto - Arte com Pixels](https://github.com/Kai0so/trybe-projects/tree/master/fundamentos/project-pixels-art)_
+- [x] _[Projeto - Lista de Tarefas](https://github.com/Kai0so/trybe-projects/tree/master/fundamentos/project-todo-list)_
 
 ##### HTML E CSS: Forms, Flexbox e Responsivo
 
-- [x] _[Projeto - Trybewarts]()_
+- [x] _[Projeto - Trybewarts](https://github.com/Kai0so/trybe-projects/tree/master/fundamentos/project-trybewarts)_
 
 ##### Introdução à JavaScript ES6 & Testes Unitários
 
-- [x] _[Projeto - JavaScript Testes Unitários]()_
+- [x] _[Projeto - JavaScript Testes Unitários](https://github.com/Kai0so/trybe-projects/tree/master/fundamentos/project-js-unit-tests)_
 
 ##### Higher 0rder Functions do JavaScript ES6
 
-- [x] _[Projeto - Zoo functions]()_
+- [x] _[Projeto - Zoo functions](https://github.com/Kai0so/trybe-projects/tree/master/fundamentos/project-zoo-functions)_
 
 ##### JavaScript e Testes Assíncronos
 
-- [x] _[Projeto - Carrinho de Compras]()_
+- [x] _[Projeto - Carrinho de Compras](https://github.com/Kai0so/trybe-projects/tree/master/fundamentos/project-shopping-cart)_
 
 ## Desenvolvimento Front-end :green_check_mark:
 

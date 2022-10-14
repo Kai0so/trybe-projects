@@ -1,0 +1,14 @@
+.footerClass {
+  background-color: rgb(248, 215, 184);
+  bottom: 0;
+  color: white;
+  left: 0;
+  position: fixed;
+  text-align: center;
+  width: 100%;
+}
+
+img {
+  padding-left: 15px;
+  padding-right: 15px;
+}

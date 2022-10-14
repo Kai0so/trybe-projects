@@ -1,0 +1,45 @@
+/* .nav {
+  background-color: #036b52;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.navBox {
+  align-items: center;
+  display: flex;
+  width: 35%;
+}
+
+.navBoxContent {
+  font-weight: 500;
+  height: 60px;
+  padding: 20px;
+  text-align: center;
+  width: 100%;
+}
+
+.produtos {
+  background: #2fc18c;
+  border-style: none;
+  text-decoration: none;
+}
+
+.pedidos {
+  background-color: #036b52;
+  border-style: none;
+  color: white;
+  text-decoration: none;
+}
+
+.usuarioNome {
+  background-color: #421981;
+  color: white;
+}
+
+.logout {
+  background-color: #056cf9;
+  border-style: none;
+  cursor: pointer;
+  width: 35%;
+} */

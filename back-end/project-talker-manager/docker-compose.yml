@@ -1,0 +1,15 @@
+version: "3"
+
+services:
+  node:
+    image: node:16
+    ports:
+      - 3000:3000
+    working_dir: /app
+    volumes:
+      - ./:/app
+    container_name: talker_manager
+    tty: true # -t
+    stdin_open: true #-i
+    command: bash
+    restart: always

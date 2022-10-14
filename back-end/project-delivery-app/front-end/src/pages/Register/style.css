@@ -1,0 +1,20 @@
+/* * {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+} */
+
+/* .container {
+  align-items: center;
+  background-color: blueviolet;
+  display: flex;
+  flex-direction: column;
+  margin-left: 400px;
+  width: 34%;
+} */
+
+.flexlog {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}

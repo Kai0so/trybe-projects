@@ -1,0 +1,15 @@
+ignore_files:
+  - test/02-list.test.js
+  - test/03-validations.test.js
+  - test/04-registerProduct.test.js
+  - test/05-editProduct.test.js
+  - test/06-deleteProduct.test.js
+  - test/07-registerSales.test.js
+  - test/08-updateSales.test.js
+  - test/10-deleteSales.test.js
+  - test/11-updateQuantity.test.js
+  - test/12-validatesQuantity.test.js
+  - test/unit-coverage.test.js
+  - .editorconfig
+  - .eslintignore
+  - .eslintrc.json

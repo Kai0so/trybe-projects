@@ -1,0 +1,101 @@
+/*#foods-page {
+    background-image: url(http://i.mlcdn.com.br/portaldalu/fotosconteudo/43344_01.jpg);
+    background-size: cover;
+    display: grid;
+    grid-template-columns: 25% 25% 25% 25% 25%;
+    grid-template-rows: 25% 25% 25% 25% 25%;
+    max-height: 100vh;
+    justify-items: start;
+}
+
+
+button {
+    grid-row: 1;
+    grid-column: 1, 4;
+    height: 10vh;
+    width: 20vw;
+}
+*/
+
+body {
+    background-image: url(http://i.mlcdn.com.br/portaldalu/fotosconteudo/43344_01.jpg);
+    background-size: cover;
+}
+
+.profile-button {
+    display: flex;
+}
+
+#card-content {
+    max-width: 80vw;
+    max-height: 40vh;
+    box-shadow: 0 0 20px #aaa;
+}
+
+.search-button {
+    box-shadow: 0 0 20px #aaa;
+    display: grid;
+}
+
+.search-input {
+   width: 20px;
+}
+
+img {
+    max-height: 35vh;
+    max-width: 80vw;
+}
+h1 {
+    color: orangered;
+    display: grid;
+    grid-row: 1;
+    grid-column: 2;
+}
+
+li {
+    color: white;
+}
+
+p {
+    color: white;
+}
+
+h3 {
+    color: orangered;
+}
+
+.container {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-template-rows: 10vh 10vh 10vh 70vh ;
+    height: 100vh;
+    align-items: start;
+    justify-items: start;
+}
+  .box {
+    color: #fff;
+    padding: 1em;
+    text-align: center;
+  }
+  .topo {
+    background-color:#2771b2;  
+    grid-column-start: 1; 
+    grid-column-end: 5;
+    grid-row-start: 1;
+    grid-row-end: 2;
+    max-height: 30vh;
+  }
+  .sidebar {
+    background-color:#e32223;  
+    grid-column-start: 3; 
+    grid-column-end: 5;
+    grid-row-start: 1;
+    grid-row-end: 3;
+    max-height: 30vh;
+  }
+  .conteudo {
+    grid-column-start: 1; 
+    grid-column-end: 5;
+    grid-row-start: 4;
+    grid-row-end: 5;
+  }

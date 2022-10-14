@@ -1,0 +1,21 @@
+h1 {
+    background-color: green;
+}
+
+img {
+    width: 100px;
+}
+
+input {
+    margin: 5px;
+}
+
+#custom {
+    display: inline-flex;
+    justify-content: center;
+    margin: 25px;
+    align-items: center;
+    width: 20%;
+    padding: 20px;
+    background-color: gray;
+}

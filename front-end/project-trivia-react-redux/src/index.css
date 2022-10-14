@@ -1,0 +1,127 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.incorrectAnswer {
+  border: 3px solid rgb(255, 0, 0);
+}
+
+.correctAnswer {
+  border: 3px solid rgb(6, 240, 15);
+}
+
+.box_login {
+  -webkit-box-shadow: 0px 10px 13px -7px #000000, 32px 45px 17px -2px rgba(0,0,0,0.07); 
+  box-shadow: 0px 10px 13px -7px #000000, 32px 45px 17px -2px rgba(0,0,0,0.07);
+  padding: 30px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 25vh;
+  height: 29vh;
+  align-items: center;
+  position: absolute;
+  right: 537px;
+  top: 144px;
+}
+
+.login_element {
+  margin-bottom: 15px;
+  padding: 10px;
+}
+
+h1 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.login_buttons {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+
+button {
+  margin: 7px;
+}
+
+.header_game {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  -webkit-box-shadow: 0px 10px 13px -7px #000000, inset -4px -1px 50px 6px rgba(0,0,0,0.03); 
+  box-shadow: 0px 10px 13px -7px #000000, inset -4px -1px 50px 6px rgba(0,0,0,0.03);
+  padding: 7px;
+  margin-top: 10px;
+}
+
+.question_game {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+  width: 463px;
+  top: 221px;
+  padding: 33px;
+  right: 670px;
+  position: absolute;
+  box-shadow: 0px 10px 13px -7px #000000, inset -10px 2px 50px 11px rgb(217 61 255 / 0%);
+}
+
+
+.answers_game {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: stretch;
+  width: 344px;
+  /* position: absolute;
+  top: 221px;
+  padding: 33px;
+  right: 76px;
+  box-shadow: 0px 10px 13px -7px #000000, inset -10px 2px 50px 11px rgb(217 61 255 / 0%); */
+} 
+
+.form_config {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+label {
+  margin-top: 10px;
+}
+
+.section_config {
+  box-shadow: 0px 20px 0px -10px #ffffff, 0px -20px 0px -10px #ffffff, 20px 0px 0px -10px #ffffff, -20px 0px 0px -10px #ffffff, 0px 0px 0px 10px #ff0000, 5px 5px 15px 5px rgb(0 0 0 / 0%);
+  padding: 17px;
+  width: 178px;
+  top: 199px;
+  right: 547px;
+  position: absolute;
+}
+
+.section_ranking {
+  box-shadow: -10px 0px 13px -7px #000000, 10px 0px 13px -7px #000000, -17px -50px 24px -21px rgb(0 0 0 / 0%);
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  align-content: space-around;
+  align-items: stretch;
+  padding: 21px;
+  position: absolute;
+  width: 469px;
+  top: 219px;
+  right: 393px;
+}

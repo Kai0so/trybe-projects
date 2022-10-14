@@ -1,0 +1,37 @@
+
+.grid-container {
+    background-image: url(http://i.mlcdn.com.br/portaldalu/fotosconteudo/43344_01.jpg);
+    background-size: cover;
+    display: grid;
+    grid-template-columns: 33.33% 33.33% 33.33%;
+    grid-template-rows: 33.33% 33.33% 33.33%;
+    height: 100vh;
+}
+
+form {
+    display: grid;
+    align-items: center;
+    grid-row: auto;
+    grid-column: 2;
+    justify-content: center;
+    max-height: 20vh;
+}
+
+.login-title {
+    color: orangered;
+    font-style: italic;
+    text-shadow: 4px 4px 4px rgba(2, 2, 2, 0.74);
+    font-size: 10vh;
+    display: grid;
+    grid-row: 1;
+    grid-column: 2;
+    margin: 10%;
+    justify-content: center;
+}
+
+input {
+    background-color: whitesmoke;
+    min-height: 7vh;
+    max-height: 10vh;
+    max-width: 50vw;
+}
