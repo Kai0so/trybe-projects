@@ -1,0 +1,231 @@
+    body {
+        background-color: rgb(253, 251, 251);
+        font-family: sans-serif, 'Roboto Condensed';
+    }
+    
+    #cabecalho {
+        position: fixed;
+        top: 0;
+        left: 0;
+        right: 0;
+        bottom: 0;
+        background-image: url(images/header.jpg);
+        background-size: 1800px;
+        height: 10%;
+        z-index: 1055;
+    }
+    
+    #title {
+        display: inline-block;
+        color: white;
+        position: relative;
+        bottom: 25px;
+        left: 10px
+    }
+    
+    #title h1 {
+        display: inline-block;
+        font-size: 35px;
+    }
+    
+    #title h2 {
+        display: inline-block;
+        font-size: 18px;
+        position: relative;
+        bottom: 10px;
+    }
+    
+    #navigation {
+        position: relative;
+        bottom: 47px;
+        background-color: red;
+    }
+    
+    #navigation ul {
+        padding: 0;
+    }
+    
+    #navigation li {
+        display: inline;
+    }
+    
+    #navigation li a {
+        font-weight: bolder;
+        color: white;
+        text-decoration: none;
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+    
+    #introduction {
+        min-width: 100%;
+        max-width: 100%;
+        display: inline-block;
+        height: 250px;
+        margin-top: 150px;
+        background-color: rgba(173, 169, 169, 0.425);
+        text-align: justify;
+        max-width: 55%;
+    }
+    
+    #introduction h2 {
+        font-size: 28px;
+    }
+    
+    #intro {
+        padding-left: 5%;
+    }
+    
+    #intro p {
+        font-size: 16px;
+    }
+    
+    #intro a {
+        margin-left: 150px;
+    }
+    
+    #github-link {
+        position: relative;
+        top: 5px;
+        left: 180px;
+        color: transparent;
+        padding: 20px;
+        background-image: url(./images/GitHub-Mark.png);
+        background-size: 300px;
+        display: inline-block;
+        width: 32px;
+        height: 32px;
+        background-size: 100px;
+        background-position: center;
+        text-decoration: none;
+        border-radius: 50%;
+    }
+    
+    #linkedin-link {
+        position: relative;
+        top: 5px;
+        left: 100px;
+        color: transparent;
+        padding: 20px;
+        background-image: url(./images/linkedin.png);
+        background-size: 300px;
+        display: inline-block;
+        width: 32px;
+        height: 32px;
+        background-size: 100px;
+        background-position: center;
+        text-decoration: none;
+        border-radius: 20%;
+    }
+    
+    #minha_foto {
+        max-width: 300px;
+        border-radius: 50%;
+        border-style: ridge;
+        border-color: black;
+        border-width: 7px;
+        position: relative;
+        bottom: 175px;
+        right: 100px;
+        float: right;
+    }
+    
+    #learning {
+        position: relative;
+        top: 70px;
+        padding: 50px;
+        background-color: rgba(128, 128, 128, 0.404);
+        line-height: 25px;
+    }
+    
+    #learning-position {
+        text-align: center;
+        font-size: 20px;
+    }
+    
+    #ready {
+        display: inline-block;
+        color: white;
+        width: 35%;
+        background-color: rgba(7, 95, 32, 0.767);
+        margin: 20px;
+    }
+    
+    #licoes_aprendidas li {
+        text-align: left;
+        font-size: 20px;
+    }
+    
+    #missing {
+        display: inline-block;
+        color: white;
+        width: 35%;
+        background-color: rgba(150, 17, 17, 0.719);
+        margin: 20px;
+    }
+    
+    #licoes_a_aprender li {
+        font-size: 20px;
+        text-align: left;
+        list-style-type: square;
+    }
+    
+    #learning-section {
+        margin: 135px 0px 135px 0px;
+        padding: 50px;
+        background-color: rgba(128, 128, 128, 0.404);
+    }
+    
+    .lado-esquerdo {
+        color: white;
+        width: 50%;
+        font-size: 20px;
+        padding: 60px;
+        background-color: rgba(87, 20, 4, 0.589);
+        border-radius: 5%;
+    }
+    
+    .lado-direito {
+        position: relative;
+        bottom: 450px;
+        right: 50px;
+        width: 20%;
+        float: right;
+    }
+    
+    #learning-passage {
+        color: rgb(0, 0, 0);
+        padding: 20px;
+        background-color: rgba(77, 36, 2, 0.479);
+        border-radius: 5%;
+    }
+    
+    #rodape {
+        color: white;
+        display: inline;
+    }
+    
+    #contact-information {
+        line-height: 12px;
+        position: relative;
+        top: 60px;
+        padding: 1px;
+        background-color: rgba(0, 0, 0, 0.849);
+    }
+    
+    #zap-link {
+        color: transparent;
+        padding: 0px;
+        background-image: url(./images/zap-icon.jpg);
+        background-size: 300px;
+        display: inline-block;
+        width: 32px;
+        height: 32px;
+        background-size: 100px;
+        background-position: center;
+        text-decoration: none;
+        border-radius: 50%;
+        position: relative;
+        bottom: 45px;
+        left: 155px;
+    }
