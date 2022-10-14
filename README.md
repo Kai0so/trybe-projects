@@ -6,7 +6,7 @@ A Trybe é uma escola do futuro para qualquer pessoa que queira melhorar de vida
 
 O currículo da Trybe conta com mais de 1.500 horas de aulas presenciais e online, aborda introdução ao desenvolvimento de software, front-end, back-end, ciência da computação, engenharia de software, metodologias ágeis e habilidades comportamentais.
 
-## Fundamentos do Desenvolvimento Web :green_check_mark:
+## Fundamentos do Desenvolvimento Web :white_check_mark:
 
 ##### Introdução à HTML & CSS
 
@@ -37,88 +37,88 @@ O currículo da Trybe conta com mais de 1.500 horas de aulas presenciais e onlin
 
 - [x] _[Projeto - Carrinho de Compras](https://github.com/Kai0so/trybe-projects/tree/master/fundamentos/project-shopping-cart)_
 
-## Desenvolvimento Front-end :green_check_mark:
+## Desenvolvimento Front-end :white_check_mark:
 
 ##### Introdução ao React
 
-- [x] _[Projeto - Solar System]()_
+- [x] _[Projeto - Solar System](https://github.com/Kai0so/trybe-projects/tree/master/front-end/project-solar-system)_
 
 ##### Componentes com Estado, Eventos e Formulários com React
 
-- [x] _[Projeto - Tryunfo]()_
+- [x] _[Projeto - Tryunfo](https://github.com/Kai0so/trybe-projects/tree/master/front-end/project-tryunfo)_
 
 ##### Ciclo de Vida de Componentes e React Router
 
-- [x] _[Projeto - TrybeTunes]()_
+- [x] _[Projeto - TrybeTunes](https://github.com/Kai0so/trybe-projects/tree/master/front-end/project-trybetunes)_
 
 ##### Metodologias Ágeis
 
-- [x] _[Projeto - Frontend Online Store]()_
+- [x] _[Projeto - Frontend Online Store](https://github.com/Kai0so/trybe-projects/tree/master/front-end/project-frontend-online-store)_
 
 ##### Testes automatizados com React Testing Library
 
-- [x] _[Projeto - Testes em React]()_
+- [x] _[Projeto - Testes em React](https://github.com/Kai0so/trybe-projects/tree/master/front-end/project-react-testing-library)_
 
 ##### Gerenciamento de Estado com Redux
 
-- [x] _[Projeto - Trybe Wallet]()_
-- [x] _[Projeto - Jogo de Trivia]()_
+- [x] _[Projeto - Trybe Wallet](https://github.com/Kai0so/trybe-projects/tree/master/front-end/project-trybewallet)_
+- [x] _[Projeto - Jogo de Trivia](https://github.com/Kai0so/trybe-projects/tree/master/front-end/project-trivia-react-redux)_
 
 ##### Context API e React Hooks
 
-- [x] _[Projeto - StarWars Datatable com Context API e Hooks]()_
-- [x] _[Projeto - App de Receitas]()_
+- [x] _[Projeto - StarWars Datatable com Context API e Hooks](https://github.com/Kai0so/trybe-projects/tree/master/front-end/project-starwars-planets-search)_
+- [x] _[Projeto - App de Receitas](https://github.com/Kai0so/trybe-projects/tree/master/front-end/project-recipes-app)_
 
-## Desenvolvimento Back-end :green_check_mark:
+## Desenvolvimento Back-end :white_check_mark:
 
 ##### Docker: Utilizando Containers
 
-- [x] _[Projeto - Docker ToDoList]()_
+- [x] _[Projeto - Docker ToDoList](https://github.com/Kai0so/trybe-projects/tree/master/back-end/project-docker-todo-list)_
 
 ##### Introdução à SQL
 
-- [x] _[Projeto - All For One]()_
+- [x] _[Projeto - All For One](https://github.com/Kai0so/trybe-projects/tree/master/back-end/project-mysql-all-for-one)_
 
 ##### Funções SQL, JOINs e Normalização
 
-- [x] _[Projeto - One For All]()_
+- [x] _[Projeto - One For All](https://github.com/Kai0so/trybe-projects/tree/master/back-end/project-mysql-one-for-all)_
 
 ##### Introdução ao desenvolvimento Web com Node.js
 
-- [x] _[Projeto - Talker Manager]()_
+- [x] _[Projeto - Talker Manager](https://github.com/Kai0so/trybe-projects/tree/master/back-end/project-talker-manager)_
 
 ##### Arquitetura de Software: Model, Service e Controller
 
-- [x] _[Projeto - Store Manager]()_
+- [x] _[Projeto - Store Manager](https://github.com/Kai0so/trybe-projects/tree/master/back-end/project-store-manager)_
 
 ##### Node.js: ORM e Autenticação
 
-- [x] _[Projeto - API de Blogs]()_
+- [x] _[Projeto - API de Blogs](https://github.com/Kai0so/trybe-projects/tree/master/back-end/project-blogs-api)_
 
 ##### Deployment
 
-- [x] _[Projeto - Stranger Things]()_
+- [x] _[Projeto - Stranger Things](https://github.com/Kai0so/trybe-projects/tree/master/back-end/project-stranger-things)_
 
 ##### Introdução a TypeScript
 
-- [x] _[Projeto - Trybesmith]()_
+- [x] _[Projeto - Trybesmith](https://github.com/Kai0so/trybe-projects/tree/master/back-end/project-trybesmith)_
 
 ##### Programação Orientada a Objetos (POO) e SOLID
 
-- [x] _[Projeto - Trybers and Dragons]()_
-- [x] _[Projeto - TFC (Trybe Futebol Clube)]()_
+- [x] _[Projeto - Trybers and Dragons](https://github.com/Kai0so/trybe-projects/tree/master/back-end/project-trybers-and-dragons)_
+- [x] _[Projeto - TFC (Trybe Futebol Clube)](https://github.com/Kai0so/trybe-projects/tree/master/back-end/project-trybe-futebol-clube)_
 
 ##### Introdução ao MongoDB
 
-- [x] _[Projeto - Commerce]()_
+- [x] _[Projeto - Commerce](https://github.com/Kai0so/trybe-projects/tree/master/back-end/project-mongodb-commerce)_
 
 ##### MongoDB com Node.js e POO
 
-- [x] _[Projeto - Car Shop]()_
+- [x] _[Projeto - Car Shop](https://github.com/Kai0so/trybe-projects/tree/master/back-end/project-car-shop)_
 
 ##### Projeto App de Delivery
 
-- [x] _[Projeto - App de Delivery]()_
+- [x] _[Projeto - App de Delivery](https://github.com/Kai0so/trybe-projects/tree/master/back-end/project-delivery-app)_
 
 ## Ciência da Computação :hourglass_flowing_sand:
 
