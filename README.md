@@ -124,11 +124,11 @@ O currículo da Trybe conta com mais de 1.500 horas de aulas presenciais e onlin
 
 ##### Introdução à Python
 
-- [ ] _[Projeto - Job Insights]()_
+- [x] _[Projeto - Job Insights]()_
 
 ##### Padrões de Projeto
 
-- [ ] _[Projeto - Relatórios de Estoque]()_
+- [x] _[Projeto - Relatórios de Estoque]()_
 
 ##### Redes e Raspagem de Dados
 
